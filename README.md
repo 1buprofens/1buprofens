@@ -1,16 +1,16 @@
-## Hi there 👋
+<div id="header" align="right">
+࣪ ⁠⁠⁠☾. 𝘐'𝘮 𝘭𝘰𝘰𝘬𝘪𝘯𝘨 𝘧𝘰𝘳 𝘧𝘳𝘪𝘦𝘯𝘥𝘴 .   .   . ᶻ 𝗓 𐰁 .ᐟ
 
-<!--
-**1buprofens/1buprofens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div id="header" align="center">
+⋆˚₊ 𖤓☽˚.⋆
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div id="header" align="left">
+<img src="https://files.catbox.moe/arsmsc.png" width="100"/>
+</a>
+- 𝒕𝒂𝒄𝒕𝒊𝒍𝒆 𝒉𝒖𝒏𝒈𝒆𝒓 ... 
+
+
+<div id="header" align="center">
+  <img src="https://files.catbox.moe/gnh211.png" width="580"/>
