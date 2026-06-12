@@ -1,4 +1,5 @@
 <div id="header" align="right">
+  <img src="https://files.catbox.moe/ao6tkm.png" width="100"/>
 ࣪ ⁠⁠⁠☾. 𝘐'𝘮 𝘭𝘰𝘰𝘬𝘪𝘯𝘨 𝘧𝘰𝘳 𝘧𝘳𝘪𝘦𝘯𝘥𝘴 .   .   . ᶻ 𝗓 𐰁 .ᐟ
 
 
